@@ -1,8 +1,10 @@
 ![](./github-header-image.png)
-Sab Ki Pathshaala
-=======================
 
-**Live Demo**: [Link](https://hackathon-starter-1.ydftech.com/)
+# Sab Ki Pathshaala
+
+**Live Demo**: http://sabkipathshaala.study
+
+###### Click [here](https://learning-journey.reluvate.tech/gallery) if link does not work
 
 ### Problem Statement:
 
