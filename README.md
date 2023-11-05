@@ -1,36 +1,41 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+![](./github-header-image.png)
+Sab Ki Pathshaala
+=======================
 
-## Getting Started
+**Live Demo**: [Link](https://hackathon-starter-1.ydftech.com/)
 
-First, run the development server:
+### Problem Statement:
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+In this far moving world the smart learner seek quick and precise techniques to learn new topics and technologies, and often learning new things are time consuming. So with the recent developments in ai, how can we use it's capabilities to improve our learning experience?
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+### Our Solution:
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+We introduce you to **Sab Ki Pathshala**. A learning app where you enter the topic of your choice, then with the use of ai modals it creates a structured learning plan along with resources to learn from and tests to validate your learnings.
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+<h4 align="center">Search Screen</h4>
 
-## Learn More
+![](https://lh6.googleusercontent.com/-KQTmCFNK6MM/U7OZpznjDuI/AAAAAAAAERc/h3jR27Uy1lE/w1366-h1006-no/Screenshot+2014-07-02+01.32.22.png)
 
-To learn more about Next.js, take a look at the following resources:
+<h4 align="center">Searching In Progress</h4>
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+![](https://lh5.googleusercontent.com/-oJ-7bSYisRY/U1a-WhK_LoI/AAAAAAAAECM/a04fVYgefzw/w1474-h1098-no/Screen+Shot+2014-04-22+at+3.08.33+PM.png)
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+<h4 align="center">Gallery of All Curated Videos</h4>
 
-## Deploy on Vercel
+![](https://lh5.googleusercontent.com/-BJD2wK8CvC8/VLodBsyL-NI/AAAAAAAAEx0/SafE6o_qq_I/w1818-h1186-no/Screenshot%2B2015-01-17%2B00.25.49.png)
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+### About us:
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+Team Name : **Asterix**
+
+Team No. : 6017
+
+Team Members:
+
+- Mohammad Hatif Osmani
+
+  _Socials : x.com/hatif_15_
+
+- Farhan Ali Mirza
+
+  _Socials : x.com/FarhanAliMirza4_
