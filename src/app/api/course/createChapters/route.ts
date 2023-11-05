@@ -10,6 +10,7 @@ import { getAuthSession } from "@/lib/auth";
 import { checkSubscription } from "@/lib/subscription";
 
 export async function POST(req: Request, res: Response) {
+  
   try {
     const session = await getAuthSession();
     if (!session?.user) {
